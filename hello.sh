@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from Jenkins automated build!”
+echo " Hello from Jenkins automated build! ";
